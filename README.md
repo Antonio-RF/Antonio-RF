@@ -17,23 +17,26 @@ I am currently a third-period Computer Science student at the Federal University
 
 <hr style="border: 2px solid #90EE90;">
 
-
-### 🖥 Main languages ​​and tools:
-
+### 📜​ Main Languages:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,github,vscode,vim&theme=dark&perline=4" alt="Linux, GitHub, Visual Studio Code, Vim logos" />
-  <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe logo" width="50" height="40" />
-  <img src="Assets/udemy_icon.png" alt="Udemy Icon" width="50" height="45" />
-  <img src="Assets/code_academy.png" alt="Code Academy Icon" width="52" height="45" />
-  <br />
   <img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="50" height="45" />
   <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css&theme=dark&perline=6" alt="C++, C, Python, HTML, CSS logos" />
-  <br />
-  <img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Farticles%2Fcover%2F3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg&w=1080&q=75" alt="beeCrowd logo" width="120" height="40" />
-  <img src="https://sta.codeforces.com/s/58088/images/codeforces-logo-with-telegram.png" alt="CodeForces logo" width="100" height="40" />
+</div>
+
+### 🔧 Main Tools:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,github,vscode,vim&theme=dark&perline=4" alt="Linux, GitHub, Visual Studio Code, Vim logos" />
   <img src="https://github.com/logisim-evolution/logisim-evolution/blob/main/docs/img/logisim-evolution-logo.png" alt="Logisim" width="100" height="40" />
 </div>
 
+### ​🖥️​ Main Platforms Used:
+<div align="left">
+  <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe logo" width="50" height="40" />
+  <img src="Assets/udemy_icon.png" alt="Udemy Icon" width="50" height="45" />
+  <img src="Assets/code_academy.png" alt="Code Academy Icon" width="52" height="45" />
+  <img src="https://sta.codeforces.com/s/58088/images/codeforces-logo-with-telegram.png" alt="CodeForces logo" width="100" height="40" />
+  <img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Farticles%2Fcover%2F3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg&w=1080&q=75" alt="beeCrowd logo" width="120" height="40" />
+</div>
 
 <br>
 
