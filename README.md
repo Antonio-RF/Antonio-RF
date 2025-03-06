@@ -21,7 +21,7 @@ I am currently a third-period Computer Science student at the Federal University
 ### 🖥 Main languages ​​and tools:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,html&theme=dark&perline=6" alt="C++, C, Python, Linux, HTML logos" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,html,css&theme=dark&perline=6" alt="C++, C, Python, Linux, HTML, CSS logos" />
   <img src="udemy_icon.png" alt="Udemy Icon" width="50" height="45" />
   <br />
   <img src="https://skillicons.dev/icons?i=github,vscode,vim,git&theme=dark&perline=4" alt="GitHub, Visual Studio Code, Vim, and Git logos" />
@@ -38,8 +38,8 @@ I am currently a third-period Computer Science student at the Federal University
 
 ### 🏆 GitHub Stats ⏰:
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Antonio-RF&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=60" height="180px"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Antonio-RF&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=00FF6A&text_color=FFF&bg_color=000&border_radius=3&border_color=006633&icon_color=00FF6A" height="180px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Antonio-RF&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=58" height="180px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Antonio-RF&count_private=true&show_icons=true&theme=dark&cache_seconds=32&title_color=00FF6A&text_color=FFF&bg_color=000&border_radius=3&border_color=006633&icon_color=00FF6A" height="180px"/>
 </div>
 
 <div align="center">
