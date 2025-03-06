@@ -23,11 +23,15 @@ I am currently a third-period Computer Science student at the Federal University
   <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css&theme=dark&perline=6" alt="C++, C, Python, HTML, CSS logos" />
 </div>
 
+<br>
+
 ### 🔧 Main Tools:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,github,vscode,vim&theme=dark&perline=4" alt="Linux, GitHub, Visual Studio Code, Vim logos" />
   <img src="https://github.com/logisim-evolution/logisim-evolution/blob/main/docs/img/logisim-evolution-logo.png" alt="Logisim" width="100" height="40" />
 </div>
+
+<br>
 
 ### ​🖥️​ Main Platforms Used:
 <div align="left">
