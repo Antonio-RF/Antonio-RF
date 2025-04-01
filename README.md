@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF6A&section=header"/>
 
 <div align="center">
@@ -5,10 +6,11 @@
   </a>
 </div>
 
+<!-- ---Imagem---
 <div align="center">
   <img src="Assets/Cybersecurity_picture.webp" alt="Hacker working in a dark room" width="400px" />
 </div>
-
+-->
 
 I am currently a third-period Computer Science student at the Federal University of Paraná (UFPR). Furthermore, I am deeply passionate about acquiring new programming skills and thoroughly enjoy my studies. Therefore, my aspiration is to evolve into a highly proficient professional in the tech industry, contributing to the development of innovative and secure solutions in the future.
 
