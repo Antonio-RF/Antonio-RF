@@ -2,12 +2,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF6A&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=30F700&background=FFFFFF00&width=604&height=110&lines=Hi%2C+my+name+is+Antonio+R.F+%F0%9F%A4%93%E2%80%8B" alt="Typing SVG" />
-  </a>
+  <img src="Assets/Picture_Readme.png" alt="Hacker working in a dark room" width="250px" />
 </div>
 
 <div align="center">
-  <img src="Assets/Picture_Profile.png" alt="Hacker working in a dark room" width="400px" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=30F700&background=FFFFFF00&width=604&height=110&lines=Hi%2C+my+name+is+Antonio+R.F+%F0%9F%A4%93%E2%80%8B" alt="Typing SVG" />
+  </a>
 </div>
 
 I am currently a third-period Computer Science student at the Federal University of Paraná (UFPR). Furthermore, I am deeply passionate about acquiring new programming skills and thoroughly enjoy my studies. Therefore, my aspiration is to evolve into a highly proficient professional in the tech industry, contributing to the development of innovative and secure solutions in the future.
