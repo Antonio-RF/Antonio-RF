@@ -15,6 +15,10 @@ I am currently a third-period Computer Science student at the Federal University
 ### 🌐 My Website:  
 **➡️ [Antonio-RF.github.io](https://antonio-rf.github.io)**  
 
+<br>
+
+### 📈​ Co-founder of [@MIND](https://github.com/MIND-UFPR)
+
 <hr style="border: 2px solid #90EE90;">
 
 ### 📜​ Main Languages:
