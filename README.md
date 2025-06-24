@@ -50,8 +50,8 @@ I am currently a third-period Computer Science student at the Federal University
 
 ### 🏆 GitHub Stats ⏰:
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Antonio-RF&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=60" height="180px"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Antonio-RF&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=00FF6A&text_color=FFF&bg_color=000&border_radius=3&border_color=006633&icon_color=00FF6A" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-RF&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=1" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Antonio-RF&count_private=true&show_icons=true&theme=dark&cache_seconds=1&title_color=00FF6A&text_color=FFF&bg_color=000&border_radius=3&border_color=006633&icon_color=00FF6A" height="180px"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Antonio-RF&theme=matrix&no-frame=true&no-bg=true&margin-w=4&cache_seconds=30" />
 </div>
 
