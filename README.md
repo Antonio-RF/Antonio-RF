@@ -12,11 +12,12 @@
 
 I am currently a third-period Computer Science student at the Federal University of Paraná (UFPR). Furthermore, I am deeply passionate about acquiring new programming skills and thoroughly enjoy my studies. Therefore, my aspiration is to evolve into a highly proficient professional in the tech industry, contributing to the development of innovative and secure solutions in the future.
 
+### 👨‍🔬​ Undergraduate Researcher at [C3SL(Cento de Pesquisa Científica e Software Live)](https://www.c3sl.ufpr.br/)
+
+### 👨‍💻​ Undergraduate Researcher at the [Secret Laboratory of Cybersecurity – UFPR](https://secret.inf.ufpr.br/).
+
 ### 🌐 My Website:  
 **➡️ [Antonio-RF.github.io](https://antonio-rf.github.io)**  
-
-
-### 📈​ Co-founder of [@MIND](https://github.com/MIND-UFPR)
 
 <hr style="border: 2px solid #90EE90;">
 
