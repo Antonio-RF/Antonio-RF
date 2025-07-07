@@ -24,7 +24,7 @@ I am currently a third-period Computer Science student at the Federal University
 ### 📜​ Main Languages:
 <div align="left">
   <img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="50" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css&theme=dark&perline=6" alt="C++, C, Python, HTML, CSS logos" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,html,css&theme=dark&perline=6" alt="C++, C, Python, HTML, CSS, Git logos" />
   <img src="Assets/assembly.png" alt="Assembly Icon" width="50" height="45"/>
 </div>
 
