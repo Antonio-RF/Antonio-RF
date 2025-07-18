@@ -10,7 +10,7 @@
   </a>
 </div>
 
-I am currently a third-period Computer Science student at the Federal University of Paraná (UFPR). Furthermore, I am deeply passionate about acquiring new programming skills and thoroughly enjoy my studies. Therefore, my aspiration is to evolve into a highly proficient professional in the tech industry, contributing to the development of innovative and secure solutions in the future.
+I am currently a fourth-period Computer Science student at the Federal University of Paraná (UFPR). Furthermore, I am deeply passionate about acquiring new programming skills and thoroughly enjoy my studies. Therefore, my aspiration is to evolve into a highly proficient professional in the tech industry, contributing to the development of innovative and secure solutions in the future.
 
 ### 👨‍🔬​ Undergraduate Researcher at [C3SL(Cento de Pesquisa Científica e Software Live)](https://www.c3sl.ufpr.br/)
 
@@ -45,6 +45,7 @@ I am currently a third-period Computer Science student at the Federal University
   <img src="Assets/code_academy.png" alt="Code Academy Icon" width="52" height="45" />
   <img src="https://sta.codeforces.com/s/58088/images/codeforces-logo-with-telegram.png" alt="CodeForces logo" width="100" height="40" />
   <img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Farticles%2Fcover%2F3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg&w=1080&q=75" alt="beeCrowd logo" width="120" height="40" />
+  <img src="Assets/Netbox_logo.png" alt="NetBox Icon" width="120" height="40" />
 </div>
 
 <br>
