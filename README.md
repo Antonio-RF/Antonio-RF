@@ -11,7 +11,7 @@ I am currently a fourth-period Computer Science student at the Federal Universit
 
 ### 👨‍🔬​ Undergraduate Researcher at [C3SL(Centro de Pesquisa Científica e Software Live)](https://www.c3sl.ufpr.br/)
 
-### 👨‍💻​ Undergraduate Researcher at the [Secret Laboratory of Cybersecurity – UFPR](https://secret.inf.ufpr.br/).
+### 👨‍💻​ Undergraduate Researcher at the [Secret Laboratory of Cybersecurity – UFPR](https://www.secret.seg.br/).
 
 ### 🌐 My Website:  
 **➡️ [Antonio-RF.github.io](https://antonio-rf.github.io)**  
