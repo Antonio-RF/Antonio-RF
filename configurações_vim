@@ -1,0 +1,18 @@
+syntax on
+set tabstop=4
+set autoindent
+set list
+set listchars=tab:\|-,trail:-
+inoremap ( ()<Left>
+inoremap { {<CR>}<Esc>O
+inoremap [ []<Left>
+inoremap " ""<Left>
+
+augroup new_file_template
+|---autocmd!
+|---autocmd BufNewFile *.cpp 0r ~/Documents/template.cpp
+augroup END
+
+nnoremap <F5> :w<CR>:!python3 %<CR>
+nnoremap <F4> :w<CR>:!g++ % -O2 -o %< && ./%<<CR>
+nnoremap <F8> :w<CR>:!nasm -f elf64 % -o %<.o && ld %<.o -o %< && ./%<<CR>
