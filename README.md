@@ -18,12 +18,20 @@ I am currently a fourth-period Computer Science student at the Federal Universit
 
 <hr style="border: 2px solid #90EE90;">
 
-### 📜 Main Languages:
-<div align="left">
-  <img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="50" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,html,css,java,assembly&theme=dark&perline=8" 
-       alt="C++, C, Python, Git, HTML, CSS, Java, Assembly logos" />
-</div>
+### 📜 Main Languages
+<p align="left">
+  <img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="42" height="42" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,html,css,java&theme=dark" 
+       alt="C++, C, Python, Git, HTML, CSS, Java" style="vertical-align: middle;" />
+  <img src="Assets/assembly.png" alt="Assembly Icon" width="52" height="52" style="vertical-align: middle; margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=haskell&theme=dark" 
+       alt="Haskell" style="vertical-align: middle;" />
+</p>
+
+
+
+
+
 
 
 <br>
