@@ -10,6 +10,8 @@
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
 
+  programs.sway.enable = true;
+ 
   networking.hostName = "nixos"; # Define your hostname.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
 
@@ -56,6 +58,7 @@
 
   # Enable CUPS to print documents.
   services.printing.enable = true;
+  services.printing.drivers = [ pkgs.hplip ];
 
   # Enable sound with pipewire.
   hardware.pulseaudio.enable = false;
@@ -108,12 +111,18 @@
     gnome-tweaks
     element-desktop
     gnome.gnome-shell-extensions
+    gnome-shell-extensions
     gcc
     python312Packages.pynetbox
     wget
     gdb
     ghidra
-    spotify
+    spotify 
+    libreoffice-qt
+    qemu
+    nasm
+    swaylock-effects
+    direnv
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
@@ -126,11 +135,14 @@
 
   # List services that you want to enable:
 
+  programs.direnv.enable = true;
+
   # Enable the OpenSSH daemon.
   services.openssh.enable = true;
+  services.openssh.settings.PasswordAuthentication = true;
 
   # Open ports in the firewall.
-  # networking.firewall.allowedTCPPorts = [ ... ];
+  networking.firewall.allowedTCPPorts = [ 22 ];
   # networking.firewall.allowedUDPPorts = [ ... ];
   # Or disable the firewall altogether.
   # networking.firewall.enable = false;
