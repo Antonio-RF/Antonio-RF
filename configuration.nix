@@ -6,12 +6,20 @@
       ./hardware-configuration.nix
     ];
 
+
+
+
   # Bootloader.
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
 
-  programs.sway.enable = true;
- 
+  # enable Sway window manager
+  programs.sway = {
+    enable = true;
+    wrapperFeatures.gtk = true;
+  }; 
+
+
   networking.hostName = "nixos"; # Define your hostname.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
 
@@ -62,6 +70,12 @@
 
   # Enable sound with pipewire.
   hardware.pulseaudio.enable = false;
+
+
+  hardware.bluetooth.enable = true;
+  services.blueman.enable = true;
+
+
   security.rtkit.enable = true;
   services.pipewire = {
     enable = true;
@@ -123,6 +137,18 @@
     nasm
     swaylock-effects
     direnv
+    grim # screenshot functionality
+    slurp # screenshot functionality
+    wl-clipboard # wl-copy and wl-paste for copy/paste from stdin / stdout
+    mako # notification system developed by swaywm maintainer
+    inkscape
+  ];
+
+  fonts.packages = with pkgs; [
+    # Add other fonts you might have here
+    fantasque-sans-mono 
+    # or the Nerd Fonts version:
+    # nerd-fonts.fantasque-sans-mono
   ];
 
   # Some programs need SUID wrappers, can be configured further or are

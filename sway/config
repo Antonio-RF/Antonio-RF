@@ -1,0 +1,29 @@
+exec systemctl --user import-environment WAYLAND_DISPLAY DISPLAY XDG_CURRENT_DESKTOP SWAYSOCK I3SOCK XCURSOR_SIZE XCURSOR_THEME
+exec dbus-update-activation-environment WAYLAND_DISPLAY DISPLAY XDG_CURRENT_DESKTOP SWAYSOCK I3SOCK XCURSOR_SIZE XCURSOR_THEME
+
+exec mako
+
+include ~/.config/sway/autostart
+include ~/.config/sway/inputs
+include ~/.config/sway/outputs
+include ~/.config/sway/keybindings
+include ~/.config/sway/bar
+
+bindsym Ctrl+p exec swaylock -c 24222A -i /home/antonio-rf/Downloads/wallpapa.jpg
+
+
+font pango:monospace 16
+
+floating_modifier Mod1
+default_border pixel 2
+default_floating_border normal 2
+hide_edge_borders both
+focus_wrapping no
+focus_follows_mouse no
+focus_on_window_activation smart
+mouse_warping output
+
+workspace_layout default
+workspace_auto_back_and_forth no
+output DP-2 bg /home/antonio-rf/Downloads/valeu_natalina.jpg fill
+output HDMI-A-1 bg /home/antonio-rf/Downloads/valeu_natalina.jpg fill
