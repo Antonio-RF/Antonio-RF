@@ -8,9 +8,9 @@ inoremap { {<CR>}<Esc>O
 inoremap [ []<Left>
 inoremap " ""<Left>
 
-augroup new_file_template
-|---autocmd!
-|---autocmd BufNewFile *.cpp 0r ~/Documents/template.cpp
+augroup new_file_template 
+	autocmd!
+	autocmd BufNewFile *.cpp 0r ~/Documents/template.cpp
 augroup END
 
 nnoremap <F5> :w<CR>:!python3 %<CR>

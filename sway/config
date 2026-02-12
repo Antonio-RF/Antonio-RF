@@ -9,10 +9,10 @@ include ~/.config/sway/outputs
 include ~/.config/sway/keybindings
 include ~/.config/sway/bar
 
-bindsym Ctrl+p exec swaylock -c 24222A -i /home/antonio-rf/Downloads/wallpapa.jpg
+bindsym Ctrl+p exec swaylock -c 24222A -i /home/antonio-rf/Downloads/capa_cp.png
 
 
-font pango:monospace 16
+font pango:Font Awesome 6 Free 16
 
 floating_modifier Mod1
 default_border pixel 2
@@ -25,5 +25,3 @@ mouse_warping output
 
 workspace_layout default
 workspace_auto_back_and_forth no
-output DP-2 bg /home/antonio-rf/Downloads/valeu_natalina.jpg fill
-output HDMI-A-1 bg /home/antonio-rf/Downloads/valeu_natalina.jpg fill
