@@ -124,7 +124,6 @@
     morewaita-icon-theme
     gnome-tweaks
     element-desktop
-    gnome.gnome-shell-extensions
     gnome-shell-extensions
     gcc
     python312Packages.pynetbox
@@ -145,6 +144,7 @@
     cryptsetup
     thunderbird
     font-awesome
+    alsa-utils
   ];
 
   fonts.packages = with pkgs; [
@@ -153,6 +153,9 @@
     # or the Nerd Fonts version:
     # nerd-fonts.fantasque-sans-mono
   ];
+
+
+    
 
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.

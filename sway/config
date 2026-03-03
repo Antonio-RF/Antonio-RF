@@ -12,8 +12,6 @@ include ~/.config/sway/bar
 bindsym Ctrl+p exec swaylock -c 24222A -i /home/antonio-rf/Downloads/capa_cp.png
 
 
-font pango:Font Awesome 6 Free 16
-
 floating_modifier Mod1
 default_border pixel 2
 default_floating_border normal 2

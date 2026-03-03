@@ -1,4 +1,4 @@
-set $term foot
+set $term tilix
 set $browser firefox
 set $menu wmenu-run -l 10 -p Run
 set $lock swaylock
