@@ -15,17 +15,6 @@ I am currently a fifth-period Computer Science student at the Federal University
 
 <hr style="border: 2px solid #90EE90;">
 
-<br>
-
-### 🏆 GitHub Stats ⏰:
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats-seven-kohl-22.vercel.app/api?username=Antonio-RF&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000000&border_radius=3&border_color=006633&langs_count=8" 
-    height="180px"
-</div>
-
-
 
 
 
